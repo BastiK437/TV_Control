@@ -1,2 +1,2 @@
 # TV_Control
-Arduino library
+Arduino library to control my Samsung TV
